@@ -1,11 +1,13 @@
 ### Netelis App Test Core
 
 ### 步骤
-1、打开网址：https://jitpack.io
+1、发布release版本
 
-2、搜索 alanchenyan/netelis-app-test-core
+2、打开网址：https://jitpack.io
 
-3、可选择 gradle、maven、sot、leingen进行构建
+3、搜索 alanchenyan/netelis-app-test-core
+
+4、可选择 gradle、maven、sot、leingen进行构建
 
 ### Gradle
 
