@@ -38,7 +38,7 @@ public class DriverManager {
 		if (platform == AppPlatformEnum.ANDROID) {
 			return androidDriver;
 		} else {
-			return iOSDriver;
+			return iOSDriver;  
 		}
 	}
 
