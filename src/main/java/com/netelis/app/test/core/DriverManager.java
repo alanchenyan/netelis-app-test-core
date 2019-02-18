@@ -50,7 +50,7 @@ public class DriverManager {
 		buildDriver(capabilities,DEFAULT_URL,appPlatform);
 	}
 	
-	protected void buildDriver(DesiredCapabilities capabilities,String url,AppPlatformEnum appPlatform) {
+	public void buildDriver(DesiredCapabilities capabilities,String url,AppPlatformEnum appPlatform) {
 		platform = appPlatform;
 		if (platform == AppPlatformEnum.ANDROID) {
 			buildAndroidDriver(capabilities,url);
