@@ -1,4 +1,6 @@
-### Netelis App Test Core
+### Netelis App Appium Test Core
+
+支持Android、iOS
 
 ### 步骤
 1、发布release版本
